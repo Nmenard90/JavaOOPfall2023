@@ -1,0 +1,69 @@
+//********************************************************************
+//
+//  Author:        <Your name>
+//
+//  Program #:     <Programming Assignment Number>
+//
+//  File Name:     <Program1.java>
+//
+//  Course:        ITSE 2321 Object-Oriented Programming
+//
+//  Due Date:      <Due Date>
+//
+//  Instructor:    Prof. Fred Kumi 
+//
+//  Chapter:       <Chapter #>
+//
+//  Description:   <An explanation of what the program is designed to do>
+//
+//********************************************************************
+
+public class Program1
+{
+    //***************************************************************
+    //
+    //  Method:       main
+    // 
+    //  Description:  The main method of the program
+    //
+    //  Parameters:   String array
+    //
+    //  Returns:      N/A 
+    //
+    //**************************************************************
+	public static void main(String[] args)
+    {
+       // Declare more variables here
+	   double amount = 44.50;
+	   
+       developerInfo();
+    
+       // Enter more statements here to make
+	   // the program work as expected
+    
+       System.out.printf("Meal Cost:          %6.2f%n", amount);
+       //System.out.printf("Tax Amount(8.25%%):  %6.2f%n", taxAmount);
+       //System.out.printf("Sub Total:          %6.2f%n", subTotal);
+       //System.out.printf("Tip Amount(15%%):    %6.2f%n", tipAmount);
+       //System.out.printf("Total Amount:       %6.2f%n", totalAmount);
+
+    } // End of the main method
+	
+	//***************************************************************
+    //
+    //  Method:       developerInfo
+    // 
+    //  Description:  The developer information method of the program
+    //
+    //  Parameters:   None
+    //
+    //  Returns:      N/A 
+    //
+    //**************************************************************
+    public static void developerInfo()
+    {
+       System.out.println("Name:    <Put your full name here>");
+       System.out.println("Course:  ITSE 2321 Object-Oriented Programming");
+       System.out.println("Program: One \n");
+
+    } // End of the developerInfo method

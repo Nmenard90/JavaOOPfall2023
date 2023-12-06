@@ -1,0 +1,73 @@
+case 1:
+"C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=59856:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\project2\out\production\project2" program4
+Program 4
+Enter ID Number: 1001
+Enter Pay Rate: 12.50
+Enter number of Hours: 36
+ID Number: 1001
+Pay Rate: 12.50
+Regular Hours: 36.00
+Overtime Hours: 0.00
+Total Hours: 36.00
+Regular Pay: 450.00
+Overtime Pay: 0.00
+Gross Pay: 450.00
+Tax: 0.00
+Deductions: 0.00
+Net Pay: 450.00
+Name:    Nicholas Menard
+Course:  ITSE 2321 Object-Oriented Programming
+Program: four 
+
+
+Process finished with exit code 0
+
+case 2
+"C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=59861:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\project2\out\production\project2" program4
+Program 4
+Enter ID Number: 2002
+Enter Pay Rate: 32.45
+Enter number of Hours: 40
+ID Number: 2002
+Pay Rate: 32.45
+Regular Hours: 40.00
+Overtime Hours: 0.00
+Total Hours: 40.00
+Regular Pay: 1298.00
+Overtime Pay: 0.00
+Gross Pay: 1298.00
+Tax: 165.50
+Deductions: 200.50
+Net Pay: 1097.51
+Name:    Nicholas Menard
+Course:  ITSE 2321 Object-Oriented Programming
+Program: four 
+
+
+Process finished with exit code 0
+
+case 3
+
+"C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=59867:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\project2\out\production\project2" program4
+Program 4
+Enter ID Number: 3003
+Enter Pay Rate: 18.65
+Enter number of Hours: 52
+ID Number: 3003
+Pay Rate: 18.65
+Regular Hours: 40.00
+Overtime Hours: 12.00
+Total Hours: 52.00
+Regular Pay: 969.80
+Overtime Pay: 335.70
+Gross Pay: 969.80
+Tax: 123.65
+Deductions: 158.65
+Net Pay: 811.15
+Name:    Nicholas Menard
+Course:  ITSE 2321 Object-Oriented Programming
+Program: four 
+
+
+Process finished with exit code 0
+

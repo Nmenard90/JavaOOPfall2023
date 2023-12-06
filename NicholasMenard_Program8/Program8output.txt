@@ -1,0 +1,42 @@
+C:\Users\nicho\Desktop\Fall2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=61386:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\proj8\out\production\proj8" Program8
+Month 1:
+Saver1 Balance: $2006.67
+Saver2 Balance: $3010.00
+Month 2:
+Saver1 Balance: $2013.36
+Saver2 Balance: $3020.03
+Month 3:
+Saver1 Balance: $2020.07
+Saver2 Balance: $3030.10
+Month 4:
+Saver1 Balance: $2026.80
+Saver2 Balance: $3040.20
+Month 5:
+Saver1 Balance: $2033.56
+Saver2 Balance: $3050.33
+Month 6:
+Saver1 Balance: $2040.33
+Saver2 Balance: $3060.50
+Month 7:
+Saver1 Balance: $2047.14
+Saver2 Balance: $3070.70
+Month 8:
+Saver1 Balance: $2053.96
+Saver2 Balance: $3080.94
+Month 9:
+Saver1 Balance: $2060.81
+Saver2 Balance: $3091.21
+Month 10:
+Saver1 Balance: $2067.68
+Saver2 Balance: $3101.51
+Month 11:
+Saver1 Balance: $2074.57
+Saver2 Balance: $3111.85
+Month 12:
+Saver1 Balance: $2081.48
+Saver2 Balance: $3122.22
+Next Month:
+Saver1 Balance: $3596.41
+Saver2 Balance: $2582.94
+
+Process finished with exit code 0

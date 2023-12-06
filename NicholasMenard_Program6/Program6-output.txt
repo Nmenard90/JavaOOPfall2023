@@ -1,0 +1,41 @@
+Case 1
+
+"C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=54041:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\project2\out\production\project2" Program6
+Name:    Nicholas Menard
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Six 
+
+This program calculates and displays the average of six test
+scores, all integers, after the lowest score has been dropped. 
+
+Please enter the 1st test scores: 99
+Please enter the 2nd test scores: 54
+Please enter the 3rd test scores: 67
+Please enter the 4th test scores: 89
+Please enter the 5th test scores: 78
+Please enter the 6th test scores: 100
+The lowest test score dropped: 54
+The average of the remaining scores: 86.60
+
+Process finished with exit code 0
+
+Case 2
+
+"C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=54046:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\project2\out\production\project2" Program6
+Name:    Nicholas Menard
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Six 
+
+This program calculates and displays the average of six test
+scores, all integers, after the lowest score has been dropped. 
+
+Please enter the 1st test scores: 63
+Please enter the 2nd test scores: 99
+Please enter the 3rd test scores: 53
+Please enter the 4th test scores: 100
+Please enter the 5th test scores: 96
+Please enter the 6th test scores: 42
+The lowest test score dropped: 42
+The average of the remaining scores: 82.20
+
+Process finished with exit code 0

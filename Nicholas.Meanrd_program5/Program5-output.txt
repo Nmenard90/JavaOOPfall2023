@@ -1,0 +1,59 @@
+Program 5 
+
+Case 1
+
+"C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=51771:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\project2\out\production\project2" Program5
+
+Name:  Nicholas Menard
+Course:  ITSE 2321 Object-Oriented Programming
+Program: 5 
+
+Enter the number of floors in the hotel: 5
+Enter the amount of Rooms on floor number: 1 ? 10
+How many rooms Rooms occupied on floor number: 1 ? 5
+Enter the amount of Rooms on floor number: 2 ? 12
+How many rooms Rooms occupied on floor number: 2 ? 11
+Enter the amount of Rooms on floor number: 3 ? 8
+How many rooms Rooms occupied on floor number: 3 ? 4
+Enter the amount of Rooms on floor number: 4 ? 10
+How many rooms Rooms occupied on floor number: 4 ? 0
+Enter the amount of Rooms on floor number: 5 ? 12
+How many rooms Rooms occupied on floor number: 5 ? 8
+
+Hotel Summary:
+Total rooms: 52
+Rooms occupied: 28
+Rooms unoccupied: 24
+Occupancy rate: 53.8%
+
+Process finished with exit code 0
+
+case 2
+
+"C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=51792:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\project2\out\production\project2" Program5
+
+Name:  Nicholas Menard
+Course:  ITSE 2321 Object-Oriented Programming
+Program: 5 
+
+Enter the number of floors in the hotel: 6
+Enter the amount of Rooms on floor number: 1 ? 12
+How many rooms Rooms occupied on floor number: 1 ? 8
+Enter the amount of Rooms on floor number: 2 ? 11
+How many rooms Rooms occupied on floor number: 2 ? 11
+Enter the amount of Rooms on floor number: 3 ? 10
+How many rooms Rooms occupied on floor number: 3 ? 5
+Enter the amount of Rooms on floor number: 4 ? 10
+How many rooms Rooms occupied on floor number: 4 ? 3
+Enter the amount of Rooms on floor number: 5 ? 9
+How many rooms Rooms occupied on floor number: 5 ? 2
+Enter the amount of Rooms on floor number: 6 ? 10
+How many rooms Rooms occupied on floor number: 6 ? 0
+
+Hotel Summary:
+Total rooms: 62
+Rooms occupied: 29
+Rooms unoccupied: 33
+Occupancy rate: 46.8%
+
+Process finished with exit code 0

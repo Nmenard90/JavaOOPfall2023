@@ -1,0 +1,89 @@
+Run 1
+C:\Users\nicho\Desktop\Fall2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=57353:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\nicho\Desktop\Fall2023\JAVA\Workspaces\Project10\out\production\Project10 Program10
+Enter employee's first name: John
+Enter employee's last name: Doe
+Enter hourly rate of pay: 44.10
+Enter hours worked for week 1: 40
+Enter hours worked for week 2: 30
+Enter hours worked for week 3: 40
+Enter hours worked for week 4: 35
+Employee: John Doe
+Pay rate: 44.10
+Total regular hours worked: 145.00
+Total overtime hours worked: 0.00
+Total hours worked: 145.00
+Monthly Regular Pay: 6394.50
+Monthly Overtime Pay: 0.00
+Monthly Gross Pay: 6394.50
+Monthly Taxes: 1406.79
+Monthly Net Pay: 4987.71
+
+Run 2
+Enter employee's first name: Jane
+Enter employee's last name: Doe
+Enter hourly rate of pay: 45.20
+Enter hours worked for week 1: 40
+Enter hours worked for week 2: 40
+Enter hours worked for week 3: 40
+Enter hours worked for week 4: 40
+Employee: Jane Doe
+Pay rate: 45.20
+Total regular hours worked: 160.00
+Total overtime hours worked: 0.00
+Total hours worked: 160.00
+Monthly Regular Pay: 7232.00
+Monthly Overtime Pay: 0.00
+Monthly Gross Pay: 7232.00
+Monthly Taxes: 1591.04
+Monthly Net Pay: 5640.96
+
+Do you want to run the program again? (yes/no):
+
+Run 3
+
+Do you want to run the program again? (yes/no): yes
+Enter employee's first name: John
+Enter employee's last name: King
+Enter hourly rate of pay: 15.50
+Enter hours worked for week 1: 20
+Enter hours worked for week 2: 30
+Enter hours worked for week 3: 40
+Enter hours worked for week 4: 25
+Employee: John King
+Pay rate: 15.50
+Total regular hours worked: 115.00
+Total overtime hours worked: 0.00
+Total hours worked: 115.00
+Monthly Regular Pay: 1782.50
+Monthly Overtime Pay: 0.00
+Monthly Gross Pay: 1782.50
+Monthly Taxes: 178.25
+Monthly Net Pay: 1604.25
+
+Do you want to run the program again? (yes/no):
+
+Run 4
+
+o you want to run the program again? (yes/no): yes
+Enter employee's first name: Nicholas
+Enter employee's last name: Menard
+Enter hourly rate of pay: 55.50
+Enter hours worked for week 1: 50
+Enter hours worked for week 2: 40
+Enter hours worked for week 3: 35
+Enter hours worked for week 4: 55
+Employee: Nicholas Menard
+Pay rate: 55.50
+Total regular hours worked: 155.00
+Total overtime hours worked: 25.00
+Total hours worked: 180.00
+Monthly Regular Pay: 8602.50
+Monthly Overtime Pay: 2081.25
+Monthly Gross Pay: 10683.75
+Monthly Taxes: 3311.96
+Monthly Net Pay: 7371.79
+
+Do you want to run the program again? (yes/no): no
+Program terminated.
+
+Process finished with exit code 0

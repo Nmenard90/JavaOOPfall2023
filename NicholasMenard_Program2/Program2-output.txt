@@ -1,0 +1,47 @@
+CASE 1
+"C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=64570:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\project2\out\production\project2" program2
+What is the actual value of the property?(use numbers only): 300000
+What is the current tax rate in dollars for each 100$ of assessed value?(use numbers only): 2.62
+Name:    Nicholas Menard
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Two 
+
+Property Value: $300000.00
+Assessed Value: $180000.00
+Tax Rate: 2.62%
+Annual Property Tax: $4716.00
+
+Process finished with exit code 0
+
+CASE 2 
+"C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=64583:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\project2\out\production\project2" program2
+What is the actual value of the property?(use numbers only): 440000
+What is the current tax rate in dollars for each 100$ of assessed value?(use numbers only): 2.15
+Name:    Nicholas Menard
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Two 
+
+Property Value: $440000.00
+Assessed Value: $264000.00
+Tax Rate: 2.15%
+Annual Property Tax: $5676.00
+
+Process finished with exit code 0
+
+CASE 3
+
+"C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\jdk-18.0.2.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\lib\idea_rt.jar=64598:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\nicho\Desktop\Fall 2023\JAVA\Workspaces\project2\out\production\project2" program2
+What is the actual value of the property?(use numbers only): 650000
+What is the current tax rate in dollars for each 100$ of assessed value?(use numbers only): 3.12
+Name:    Nicholas Menard
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Two 
+
+Property Value: $650000.00
+Assessed Value: $390000.00
+Tax Rate: 3.12%
+Annual Property Tax: $12168.00
+
+Process finished with exit code 0
+
+

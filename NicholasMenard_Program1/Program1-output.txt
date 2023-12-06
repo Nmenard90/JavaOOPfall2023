@@ -1,0 +1,9 @@
+Name:    Nicholas Menard
+Course:  ITSE 2321 Object-Oriented Programming
+Program: One 
+
+Meal Cost:           44.50
+Tax Amount(8.25%):    3.67
+Sub Total:           48.17
+Tip Amount(15%):      7.23
+Total Amount:        55.40
